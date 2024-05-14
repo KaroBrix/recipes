@@ -1,0 +1,11 @@
+---
+title: "recipes.qmd"
+format: html
+editor: visual
+---
+
+## Welcome to my Recipes Book!
+
+This book was created as part of the "Version Control: Git for research" Seminar by Dr. Lennart Wittkuhn and Konrad Pagenstedt at University of Hamburg. Please don't take the recipes too seriously and have fun with them.
+
+\
