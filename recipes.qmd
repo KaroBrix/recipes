@@ -1,5 +1,7 @@
 ---
-title: "recipes.qmd"
+title: "Karos (very serious) Recipes"
+author: Karola Brixius (7787689)
+theme: morph
 format: html
 editor: visual
 ---
