@@ -4,8 +4,22 @@ format: html
 editor: visual
 ---
 
-## Welcome to my Recipes Book!
+# Welcome to my Recipes Book!
 
-This book was created as part of the "Version Control: Git for research" Seminar by Dr. Lennart Wittkuhn and Konrad Pagenstedt at University of Hamburg. Please don't take the recipes too seriously and have fun with them.
+This book was created as part of the *"Version Control: Git for research"* Seminar by Dr. Lennart Wittkuhn and Konrad Pagenstedt at University of Hamburg. Please don't take the recipes too seriously and have fun with them.
 
-\
+## Avocado Toast ![Caption](https://image.brigitte.de/11512334/t/Dh/v3/w960/r1/-/avocado-toast-bild.jpg)
+
+**Ingredients**
+
+-   Avocado
+
+-   Bread
+
+**Instructions**
+
+1.  Toast Bread
+
+2.  Put Avocado on Toast
+
+3.  Enjoy
