@@ -9,6 +9,7 @@ editor: visual
 # Welcome to my Recipes Book!
 
 This book was created as part of the *"Version Control: Git for research"* Seminar by Dr. Lennart Wittkuhn and Konrad Pagenstedt at University of Hamburg. Please don't take the recipes too seriously and have fun with them.
+P.s.: Cooking without recipes tastes better anyways :)
 
 ## Avocado Toast ![Caption](https://image.brigitte.de/11512334/t/Dh/v3/w960/r1/-/avocado-toast-bild.jpg)
 
@@ -23,5 +24,37 @@ This book was created as part of the *"Version Control: Git for research"* Semin
 1.  Toast Bread
 
 2.  Put Avocado on Toast
+
+3.  Enjoy
+
+## Pasta Pesto ![Caption](https://www.gutekueche.at/storage/media/recipe/103390/resp/spaghetti-al-pesto___webp_940_705.webp)
+
+**Ingredients**
+
+-   Pasta
+
+-   Pesto
+
+**Instructions**
+
+1.  Cook Pasta
+
+2.  Add Pesto
+
+3.  Enjoy
+
+## Cheese Crackers ![Caption](https://previews.123rf.com/images/movingmoment/movingmoment1504/movingmoment150400036/38684782-crispy-runden-käse-cracker-von-oben-mit-käse.jpg)
+
+**Ingredients**
+
+-   Cheese
+
+-   Crackers
+
+**Instructions**
+
+1.  Open Crackers
+
+2.  Put Cheese on Crackers
 
 3.  Enjoy
